@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur web Full Stack Java Angular<br>Enthousiaste des technologies modernes et performantes, <br>je suis un développeur full stack, <br>désireux de m'épanouir dans un environnement privilégiant Java, Angular.
+Développeur web Full Stack Java Angular<br>Enthousiaste des technologies modernes et performantes, <br>désireux de m'épanouir dans un environnement privilégiant Java, Angular.
 
 
 ## 🌐 Socials:
