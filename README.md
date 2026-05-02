@@ -1,18 +1,85 @@
-# 💫 About Me:
-Développeur web Full Stack Java Angular<br>Enthousiaste des technologies modernes et performantes, <br>désireux de m'épanouir dans un environnement privilégiant Java, Angular.
+# 👋 About Me
 
+Full-stack developer specialized in **Java, Spring Boot and Angular**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahinbavili/) 
+Currently building **Bavilivre**, a multilingual book-sharing platform designed with **DDD and hexagonal architecture**, including REST APIs and a modern Angular frontend.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahinbavili&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahinbavili&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinbavili&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Actively looking for **CDI or apprenticeship opportunities** in Java / Angular environments.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahinbavili&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Développeur full-stack spécialisé en **Java, Spring Boot et Angular**.
+
+Je développe actuellement **Bavilivre**, une application web multilingue de partage de livres basée sur une architecture **DDD et hexagonale**, avec API REST et frontend Angular moderne.
+
+Ouvert aux opportunités **CDI ou alternance**.
+
+
+# 🚀 Current Project
+
+## 📚 Bavilivre
+
+Multilingual book-sharing platform built with:
+
+- Angular 21 (signals, standalone components)
+- Spring Boot 3
+- REST API architecture
+- Domain Driven Design (DDD)
+- Hexagonal architecture
+- PostgreSQL
+- Internationalization (FR / EN / DE / FA)
+- RTL support (Persian)
+- AWS deployment (in progress)
+
+Repositories:
+
+- 🔗 https://github.com/shahinbavili/Bavilivre-backend
+- 🔗 https://github.com/shahinbavili/Bavilivre-frontend
+
+
+# 💻 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web
+
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+
+# 📚 Currently Learning
+
+- AWS deployment (Elastic Beanstalk)
+- Clean Architecture
+- Advanced Spring Boot
+
+
+# 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahin_Bavili-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahinbavili)
+
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shahinbavili&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahinbavili&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinbavili&theme=dark&hide_border=false&layout=compact)
+
+
+---
+
+Interested in backend-focused or full-stack **Java / Angular roles**.
