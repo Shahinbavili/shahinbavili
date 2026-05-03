@@ -1,16 +1,20 @@
 # 👋 About Me
 
-Full-stack developer specialized in **Java / Spring Boot / Angular**.
+Full-stack developer specialized in **Java / Spring Boot / Angular**
+with strong interest in **software architecture and production-ready applications**.
 
-Currently building **Bavilivre**, a multilingual book-sharing platform designed with **Domain-Driven Design (DDD)** and **Hexagonal Architecture**, including REST APIs and a modern Angular frontend.
+Currently building **Bavilivre**, a multilingual book-sharing platform designed with
+**Domain-Driven Design (DDD)** and **Hexagonal Architecture**.
 
 Actively looking for **CDI or apprenticeship opportunities** in Java / Angular environments.
 
 ---
 
-Développeur full-stack spécialisé en **Java / Spring Boot / Angular**.
+Développeur full-stack spécialisé en **Java / Spring Boot / Angular**,
+orienté **architecture logicielle moderne et applications métier robustes**.
 
-Je développe actuellement **Bavilivre**, une application web multilingue de partage de livres basée sur une architecture **DDD et hexagonale**, avec API REST et frontend Angular moderne.
+Je développe actuellement **Bavilivre**, une application web multilingue basée sur
+une architecture **DDD et hexagonale**.
 
 Ouvert aux opportunités **CDI ou alternance**.
 
@@ -22,16 +26,15 @@ Ouvert aux opportunités **CDI ou alternance**.
 
 Multilingual book-sharing platform built with:
 
-- Angular 21: signals, standalone components, standalone routing
-- Spring Boot 3
-- REST API architecture
+- Angular 21 (signals, standalone components, standalone routing)
+- Spring Boot 3 REST API
 - Domain-Driven Design (DDD)
 - Hexagonal Architecture
 - DTO mapping layer
-- PostgreSQL
-- Internationalization: FR / EN / DE / FA
-- RTL support for Persian language
-- AWS deployment in progress
+- PostgreSQL (production target)
+- Internationalization (FR / EN / DE / FA)
+- RTL support (Persian)
+- AWS deployment (in progress)
 
 Repositories:
 
@@ -43,18 +46,17 @@ https://github.com/shahinbavili/Bavilivre-frontend
 
 ---
 
-# 🧠 Architecture Focus
+# 🧩 Architecture Highlights
 
-Bavilivre follows modern software architecture principles:
+Bavilivre follows modern backend architecture principles:
 
 - Clean domain model
-- Domain-Driven Design
-- Hexagonal Architecture
-- Separation between domain, application and infrastructure layers
-- REST controllers separated from business logic
+- Separation domain / application / infrastructure
+- Ports & adapters architecture
 - DTO mapping layer
-- Frontend internationalization with structured translation files
-- RTL-ready UI for Persian language
+- REST controllers isolated from business logic
+- Multilingual frontend architecture
+- RTL-ready UI support
 
 ---
 
@@ -67,8 +69,6 @@ Bavilivre follows modern software architecture principles:
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ## Frontend
 
@@ -89,15 +89,11 @@ Bavilivre follows modern software architecture principles:
 ## API & Tools
 
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Version Control
 
@@ -106,14 +102,34 @@ Bavilivre follows modern software architecture principles:
 
 ---
 
+# 🧪 Testing
+
+- Domain unit testing (JUnit + AssertJ)
+- Business rule validation tests
+- TDD approach on domain layer
+
+---
+
 # 📚 Currently Learning
 
-- AWS deployment with Elastic Beanstalk
-- Spring Security with JWT authentication
-- Clean Architecture practices
-- PostgreSQL production setup
+- Spring Security JWT authentication
+- AWS deployment (Elastic Beanstalk)
 - Docker containerization
-- CI/CD with GitHub Actions
+- CI/CD pipelines with GitHub Actions
+- PostgreSQL production configuration
+
+---
+
+# 🛣 Roadmap
+
+Next planned improvements on Bavilivre:
+
+- Authentication & authorization (JWT)
+- Borrowing workflow persistence
+- User accounts
+- Docker deployment
+- CI/CD pipeline
+- Public AWS live version
 
 ---
 
@@ -126,14 +142,14 @@ Open to:
 - Junior software engineer positions
 - Apprenticeship / alternance opportunities
 
-
-Ouvert aux opportunités **CDI ou alternance** en développement **Java / Angular**.
+Ouvert aux opportunités **CDI ou alternance** en développement **Java / Angular**
 
 ---
 
 # 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahin_Bavili-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahinbavili)
+
 [![Email](https://img.shields.io/badge/Email-shahinbavili%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahinbavili@gmail.com)
 
 ---
@@ -149,7 +165,3 @@ Ouvert aux opportunités **CDI ou alternance** en développement **Java / Angula
 ---
 
 ![](https://komarev.com/ghpvc/?username=shahinbavili&color=blue)
-
----
-
-Interested in backend-focused or full-stack **Java / Spring Boot / Angular** roles.
