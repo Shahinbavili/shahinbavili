@@ -148,7 +148,7 @@ Ouvert aux opportunités **CDI ou alternance** en développement **Java / Angula
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=shahinbavili&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shahinbavili&color=blue)
 
 ---
 
