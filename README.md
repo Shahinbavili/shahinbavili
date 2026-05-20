@@ -154,12 +154,4 @@ Ouvert aux opportunités **CDI ou alternance** en développement **Java / Angula
 
 ---
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahinbavili&layout=compact&theme=dark)
-
-![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahinbavili&show_icons=true&theme=dark)
-
----
-
 ![](https://komarev.com/ghpvc/?username=shahinbavili&color=blue)
